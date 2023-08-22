@@ -1,1 +1,1 @@
-web: gunicorn designer-search.wsgi --log-file -
+web: gunicorn designersearch.wsgi --log-file -
